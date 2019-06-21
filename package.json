@@ -10,7 +10,7 @@
     "@uifabric/fluent-theme": "^0.14.1",
     "@uifabric/icons": "^7.0.2",
     "@uifabric/theme-samples": "^7.0.2",
-    "office-ui-fabric-react": "^6.154.0",
+    "office-ui-fabric-react": "^7.4.3",
     "react": "^16.7.0",
     "react-dom": "^16.8.6",
     "react-scripts": "^2.1.8",
