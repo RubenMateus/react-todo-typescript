@@ -6,7 +6,7 @@
     "@types/jest": "24.0.15",
     "@types/node": "12.0.10",
     "@types/react": "16.8.20",
-    "@types/react-dom": "16.0.11",
+    "@types/react-dom": "16.8.4",
     "@uifabric/fluent-theme": "^0.14.1",
     "@uifabric/icons": "^7.0.2",
     "@uifabric/theme-samples": "^7.0.2",
