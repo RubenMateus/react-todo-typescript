@@ -8,7 +8,7 @@
     "@types/react": "16.8.22",
     "@types/react-dom": "16.8.4",
     "@uifabric/fluent-theme": "^7.0.2",
-    "@uifabric/icons": "^7.0.2",
+    "@uifabric/icons": "^7.1.0",
     "@uifabric/theme-samples": "^7.0.2",
     "office-ui-fabric-react": "^7.6.2",
     "react": "^16.8.6",
