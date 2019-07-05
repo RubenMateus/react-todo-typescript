@@ -1480,16 +1480,7 @@
     "@uifabric/utilities" "^7.0.3"
     tslib "^1.7.1"
 
-"@uifabric/icons@^7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@uifabric/icons/-/icons-7.0.2.tgz#c614edbe884d153e7641889cec14621e4b3d6729"
-  integrity sha512-nOb5GI2uAG5nisWemACUDJc9oCaRohNJz8CKIjGRnUvgIHP3702CC6GHIqaSOnb93pwHUcHrdu0HgO9EQUK9Zw==
-  dependencies:
-    "@uifabric/set-version" "^7.0.0"
-    "@uifabric/styling" "^7.0.2"
-    tslib "^1.7.1"
-
-"@uifabric/icons@^7.1.0":
+"@uifabric/icons@^7.0.2", "@uifabric/icons@^7.1.0":
   version "7.1.0"
   resolved "https://registry.yarnpkg.com/@uifabric/icons/-/icons-7.1.0.tgz#484c9079f588debce0c33a22232436cf86abb5b3"
   integrity sha512-hKGWPTkxZkGEuvfsFx5dh28yyWbYHf32BtvcwsFR5Tn8LEpTR1HZY/tc2aS+JjNMpX1m+R3SrrxLYT9rVkC77Q==
@@ -1521,18 +1512,7 @@
   dependencies:
     tslib "^1.7.1"
 
-"@uifabric/styling@^7.0.2", "@uifabric/styling@^7.1.0":
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/@uifabric/styling/-/styling-7.1.0.tgz#98c489ce9c172f67a826cfbb2c179e7fce5663e2"
-  integrity sha512-HSQeVvA/YLpSveMgKIDGYavbqmPV/m+XheW5d6xlu2VRrBOyep2FWz2U7rT16vTH7FRDF6Bk30M2LLXxux5zuQ==
-  dependencies:
-    "@microsoft/load-themed-styles" "^1.7.13"
-    "@uifabric/merge-styles" "^7.1.0"
-    "@uifabric/set-version" "^7.0.0"
-    "@uifabric/utilities" "^7.0.4"
-    tslib "^1.7.1"
-
-"@uifabric/styling@^7.1.1":
+"@uifabric/styling@^7.0.2", "@uifabric/styling@^7.1.0", "@uifabric/styling@^7.1.1":
   version "7.1.1"
   resolved "https://registry.yarnpkg.com/@uifabric/styling/-/styling-7.1.1.tgz#95cc5c40e340b0cfef8ee6cf4ec21b32952b4f0d"
   integrity sha512-UiBIj7HZwRk3qLKO+RcSnT59Vizu6+QPrv94e5MIFVIbh241J8N+PRFHK6U44Se+7ZjGON1DvZKs1ll57NWufg==
@@ -1553,7 +1533,7 @@
     office-ui-fabric-react "^7.1.1"
     tslib "^1.7.1"
 
-"@uifabric/utilities@^7.0.3", "@uifabric/utilities@^7.0.4", "@uifabric/utilities@^7.0.5":
+"@uifabric/utilities@^7.0.3", "@uifabric/utilities@^7.0.5":
   version "7.0.5"
   resolved "https://registry.yarnpkg.com/@uifabric/utilities/-/utilities-7.0.5.tgz#3e3d9a0e7a24ccd404b7e92d90b7ce3cbcec10ca"
   integrity sha512-B4eSp1gzF2PHwd1pXbRwHTpnIqrgO+qPA6IQ1g5AiNVt+2lGuaxd+kY3JW00RadTTYePmk9dmql8G/unsLMFaA==
