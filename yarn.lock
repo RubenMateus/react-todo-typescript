@@ -6996,10 +6996,10 @@ office-ui-fabric-react@^7.1.1:
     prop-types "^15.5.10"
     tslib "^1.7.1"
 
-office-ui-fabric-react@^7.7.2:
-  version "7.7.2"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.7.2.tgz#a8c3d41c55a2c7cbee9eb52db450d5abf09bc767"
-  integrity sha512-TE3Tsv/y1koNC+ZIiS5n4sJvFw4uKREHoO6jfMZDIz9cLJGVsYBm1jmRvqYJm7ggYd3269I90nqbm6s1mEHKKg==
+office-ui-fabric-react@^7.9.0:
+  version "7.9.0"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.9.0.tgz#2ff86f9e9047e308801bef68705172881b016893"
+  integrity sha512-jKhthLVF/HCwZWr5MRpLu2nip3nphLSZZtBjTjX76ak498qmehluB0EV5LGy9i2/LmGbvXwRlefjSOdWGoA0ZA==
   dependencies:
     "@microsoft/load-themed-styles" "^1.7.13"
     "@uifabric/foundation" "^7.0.2"
