@@ -1423,7 +1423,7 @@
     "@uifabric/utilities" "^7.0.9"
     tslib "^1.7.1"
 
-"@uifabric/icons@^7.1.1", "@uifabric/icons@^7.2.1":
+"@uifabric/icons@^7.2.1":
   version "7.2.1"
   resolved "https://registry.yarnpkg.com/@uifabric/icons/-/icons-7.2.1.tgz#b41f52c3c8443d66c2947f3a0368a8e45f469f9f"
   integrity sha512-KRxg6wpUaWKiEmVpjXsSF5KcwzCNDMD72n7dL9oG4UuEouT+vENDQjOh/Pw2jmPWkBmBVwpnqXrNJa8hlKQ7pQ==
