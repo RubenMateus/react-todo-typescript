@@ -1467,14 +1467,14 @@
     "@uifabric/utilities" "^7.0.9"
     tslib "^1.7.1"
 
-"@uifabric/theme-samples@^7.0.3":
-  version "7.0.3"
-  resolved "https://registry.yarnpkg.com/@uifabric/theme-samples/-/theme-samples-7.0.3.tgz#dafa6091117212e775c289bf70b49aa63c57080d"
-  integrity sha512-hjYnCPctxUQwNHzNzLi6l/j4ZlnHSs6AjGuF9vKTF3opZ+LOv0GTfP5tq1LzzpTl7Uu6tsX+ekWAkAlL2dQzeA==
+"@uifabric/theme-samples@^7.0.5":
+  version "7.0.5"
+  resolved "https://registry.yarnpkg.com/@uifabric/theme-samples/-/theme-samples-7.0.5.tgz#878d25259d222e900d8d149847d23d1299b7e4b2"
+  integrity sha512-jAeZdy0+pn1ONpx9uy9vNe2c7tMAM4YDFqkqr5YzicpTNHDqv7yQGQwz1vA51Oxm4ohshqCn85YZ6dSk3ATI3g==
   dependencies:
-    "@uifabric/set-version" "^7.0.1"
-    "@uifabric/variants" "^7.0.3"
-    office-ui-fabric-react "^7.11.0"
+    "@uifabric/set-version" "^7.0.2"
+    "@uifabric/variants" "^7.0.5"
+    office-ui-fabric-react "^7.29.2"
     tslib "^1.7.1"
 
 "@uifabric/utilities@^7.0.10", "@uifabric/utilities@^7.0.9":
@@ -1494,6 +1494,15 @@
   dependencies:
     "@uifabric/set-version" "^7.0.1"
     office-ui-fabric-react "^7.11.0"
+    tslib "^1.7.1"
+
+"@uifabric/variants@^7.0.5":
+  version "7.0.5"
+  resolved "https://registry.yarnpkg.com/@uifabric/variants/-/variants-7.0.5.tgz#67a5301a8c36bcb2e46c7d86929d58184e37cc2d"
+  integrity sha512-EqjNymAipTuwvsfS3dEU3+brVz0wyBUa2LQsc+L8gU/MNj4lCnrTi34pHRZrbw6L6Lus/YUg8lCGuXZ5hIHj5Q==
+  dependencies:
+    "@uifabric/set-version" "^7.0.2"
+    office-ui-fabric-react "^7.29.2"
     tslib "^1.7.1"
 
 "@webassemblyjs/ast@1.8.5":
@@ -7082,7 +7091,7 @@ obuf@^1.0.0, obuf@^1.1.2:
   resolved "https://registry.yarnpkg.com/obuf/-/obuf-1.1.2.tgz#09bea3343d41859ebd446292d11c9d4db619084e"
   integrity sha512-PX1wu0AmAdPqOL1mWhqmlOd8kOIZQwGZw6rh7uby9fTc5lhaOWFLX3I6R1hrF9k3zUY40e6igsLGkDXK92LJNg==
 
-office-ui-fabric-react@^7.11.0, office-ui-fabric-react@^7.34.0:
+office-ui-fabric-react@^7.11.0, office-ui-fabric-react@^7.29.2, office-ui-fabric-react@^7.34.0:
   version "7.34.0"
   resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.34.0.tgz#34e7b7add7c90d06b80da0dd70e06eb63b2d127c"
   integrity sha512-6pThBJKopfseBSJHBBwGDVGOf0Xyyh7s61NY0VwkWxTTUQoif0SwL6TFRN7ACX489Zb2D/stsdZcj+Kugd7ADQ==
