@@ -8,4 +8,3 @@ import { initializeIcons } from '@uifabric/icons';
 initializeIcons();
 
 ReactDOM.render(<App />, document.getElementById('root'));
-s
