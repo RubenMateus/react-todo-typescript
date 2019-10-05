@@ -1,13 +1,13 @@
 import React from 'react';
 import { Stack } from 'office-ui-fabric-react';
-import { TodoFooter } from './TodoFooter';
-import { TodoHeader } from './TodoHeader';
-import { TodoList } from './TodoList';
-import { Store, FilterTypes } from '../store';
+import { TodoFooter } from './components/TodoFooter';
+import { TodoHeader } from './components/TodoHeader';
+import { TodoList } from './components/TodoList';
+import { Store, FilterTypes } from './store';
 
 let index = 0;
 
-export class TodoApp extends React.Component<any, Store> {
+export default class TodoApp extends React.Component<any, Store> {
   constructor(props: any) {
     super(props);
     this.state = {
