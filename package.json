@@ -11,7 +11,7 @@
     "@uifabric/icons": "^7.3.0",
     "@uifabric/theme-samples": "^7.0.5",
     "mixin-deep": "^2.0.1",
-    "office-ui-fabric-react": "^7.43.2",
+    "office-ui-fabric-react": "^7.79.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "^3.2.0",
