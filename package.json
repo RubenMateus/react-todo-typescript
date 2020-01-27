@@ -9,7 +9,7 @@
     "@types/react-dom": "16.9.1",
     "@uifabric/fluent-theme": "^7.1.4",
     "@uifabric/icons": "^7.3.0",
-    "@uifabric/theme-samples": "^7.0.5",
+    "@uifabric/theme-samples": "^7.0.9",
     "mixin-deep": "^2.0.1",
     "office-ui-fabric-react": "^7.43.2",
     "react": "^16.10.2",
