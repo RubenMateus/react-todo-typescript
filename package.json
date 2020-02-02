@@ -3,19 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/jest": "^24.0.18",
-    "@types/node": "^12.7.12",
-    "@types/react": "^16.9.5",
-    "@types/react-dom": "16.9.1",
-    "@uifabric/fluent-theme": "^7.1.4",
-    "@uifabric/icons": "^7.3.0",
-    "@uifabric/theme-samples": "^7.0.5",
-    "mixin-deep": "^2.0.1",
-    "office-ui-fabric-react": "^7.43.2",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
-    "react-scripts": "^3.2.0",
-    "typescript": "^3.6.4"
+    "@uifabric/icons": "^7.3.4",
+    "office-ui-fabric-react": "^7.88.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "^3.3.1",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "@types/jest": "^25.1.1",
+    "@types/node": "^13.7.0",
+    "@types/react": "^16.9.19",
+    "@types/react-dom": "16.9.5"
   },
   "scripts": {
     "start": "react-scripts start",
