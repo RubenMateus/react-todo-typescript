@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@uifabric/icons": "^7.3.37",
-    "office-ui-fabric-react": "^7.111.0",
+    "office-ui-fabric-react": "^7.115.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
