@@ -1603,6 +1603,15 @@
     "@uifabric/styling" "^7.12.11"
     tslib "^1.10.0"
 
+"@uifabric/icons@^7.3.47":
+  version "7.3.47"
+  resolved "https://registry.yarnpkg.com/@uifabric/icons/-/icons-7.3.47.tgz#1ab50db4f0939e435cfad94f7ad0a5c7d2065bc2"
+  integrity sha512-h1EGuknj7DlvYX7rqZvhfF7vE7UBY8clIDPlMtaF8jzwRycmrcg+7sxg6aMo7Q3NhuDsL9XRGXHQRjEF7l30Hw==
+  dependencies:
+    "@uifabric/set-version" "^7.0.12"
+    "@uifabric/styling" "^7.12.14"
+    tslib "^1.10.0"
+
 "@uifabric/merge-styles@^7.14.0":
   version "7.14.0"
   resolved "https://registry.yarnpkg.com/@uifabric/merge-styles/-/merge-styles-7.14.0.tgz#309c1d67ffba5824060544d2d6dd122258ff9c02"
@@ -1638,10 +1647,31 @@
     "@uifabric/utilities" "^7.19.0"
     tslib "^1.10.0"
 
+"@uifabric/styling@^7.12.14":
+  version "7.12.14"
+  resolved "https://registry.yarnpkg.com/@uifabric/styling/-/styling-7.12.14.tgz#03fba9fb45dba0e5fe8d56912babcd29a38b9304"
+  integrity sha512-DXbOtA/xDXp2qRZRdNDQTe7KcrSbhcxBadJz7M5htnKkw+Av0z8S9+dnPJeGCj3H5vSJcOfN1lDH+NCi5zLj7A==
+  dependencies:
+    "@microsoft/load-themed-styles" "^1.10.26"
+    "@uifabric/merge-styles" "^7.14.0"
+    "@uifabric/set-version" "^7.0.12"
+    "@uifabric/utilities" "^7.20.2"
+    tslib "^1.10.0"
+
 "@uifabric/utilities@^7.19.0":
   version "7.19.0"
   resolved "https://registry.yarnpkg.com/@uifabric/utilities/-/utilities-7.19.0.tgz#e1d9409bb6334f89d0b8aa73073898acb0adc194"
   integrity sha512-EUW85inuoGnM5HqEHV2DrdWikRcD1mbh9ywP1jOOX/HeKRWfJyZ7nIVPh31ITLashRdK0TfucNcHoMk6XI3AeQ==
+  dependencies:
+    "@uifabric/merge-styles" "^7.14.0"
+    "@uifabric/set-version" "^7.0.12"
+    prop-types "^15.7.2"
+    tslib "^1.10.0"
+
+"@uifabric/utilities@^7.20.2":
+  version "7.20.2"
+  resolved "https://registry.yarnpkg.com/@uifabric/utilities/-/utilities-7.20.2.tgz#3ad806b49a38fcaa6bdfd633114653f3a58c0705"
+  integrity sha512-I+R4UhC7HCWaLzpUVpXGUlO5c1+bb6beTvzc5eQ7PorCdclpX8W8NRzCrbkIRgNs+QWDFORiC5+KvEmnyMRlvg==
   dependencies:
     "@uifabric/merge-styles" "^7.14.0"
     "@uifabric/set-version" "^7.0.12"
