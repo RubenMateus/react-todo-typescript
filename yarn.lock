@@ -1678,6 +1678,15 @@
     "@uifabric/styling" "^7.12.17"
     tslib "^1.10.0"
 
+"@uifabric/icons@^7.3.51":
+  version "7.3.51"
+  resolved "https://registry.yarnpkg.com/@uifabric/icons/-/icons-7.3.51.tgz#4ea986d210713d0c94b4f426a000ba362b8e55f7"
+  integrity sha512-71vw3jvhcgPmJDctayszSkJi3q51317WDd7+Zgvaw1oYviOxFZRN8pKqA5nBBJsA/ICBGBnI4kbi4g2zWqXF8A==
+  dependencies:
+    "@uifabric/set-version" "^7.0.13"
+    "@uifabric/styling" "^7.12.18"
+    tslib "^1.10.0"
+
 "@uifabric/merge-styles@^7.14.1":
   version "7.14.1"
   resolved "https://registry.yarnpkg.com/@uifabric/merge-styles/-/merge-styles-7.14.1.tgz#6e375b72909294b9e725dd19b8f7e3c76fe9bfe1"
@@ -1713,10 +1722,31 @@
     "@uifabric/utilities" "^7.20.3"
     tslib "^1.10.0"
 
+"@uifabric/styling@^7.12.18":
+  version "7.12.18"
+  resolved "https://registry.yarnpkg.com/@uifabric/styling/-/styling-7.12.18.tgz#f9fa32fcb8141e8b3fa7063cf619fceafdc7fd1e"
+  integrity sha512-75gfJkjpQDNTB5Yjlfy31PQohcufZGMJCTKSwR19O/cYyPurBVA69tcALJv3UWPLyI9bVxTf7vZt1+OIQO+Jiw==
+  dependencies:
+    "@microsoft/load-themed-styles" "^1.10.26"
+    "@uifabric/merge-styles" "^7.14.1"
+    "@uifabric/set-version" "^7.0.13"
+    "@uifabric/utilities" "^7.21.0"
+    tslib "^1.10.0"
+
 "@uifabric/utilities@^7.20.3":
   version "7.20.3"
   resolved "https://registry.yarnpkg.com/@uifabric/utilities/-/utilities-7.20.3.tgz#b2a784ad1fd8f054429fda8880a28e5932e75c1e"
   integrity sha512-Amg+qdnNKx0yxjoEFHanM2jTCYfCZAlHPDHcS+BCiSwzeQrEPhlOrtZVPJtagNVhXLFiC09uDsmE/BF6dHb+ww==
+  dependencies:
+    "@uifabric/merge-styles" "^7.14.1"
+    "@uifabric/set-version" "^7.0.13"
+    prop-types "^15.7.2"
+    tslib "^1.10.0"
+
+"@uifabric/utilities@^7.21.0":
+  version "7.21.0"
+  resolved "https://registry.yarnpkg.com/@uifabric/utilities/-/utilities-7.21.0.tgz#c4810a32756e85b08a42d3fd19dda5fff197d1fb"
+  integrity sha512-K+BjTPzW56+N8JAbC4a32EnlGVEOUCk7q2CpBxsbRkf21tVsUX91rs4hMRTow+TMjK6eJudlqSotd3se1v9KPw==
   dependencies:
     "@uifabric/merge-styles" "^7.14.1"
     "@uifabric/set-version" "^7.0.13"
