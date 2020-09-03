@@ -1166,10 +1166,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/normalize.css/-/normalize.css-10.1.0.tgz#f0950bba18819512d42f7197e56c518aa491cf18"
   integrity sha512-ij4wRiunFfaJxjB0BdrYHIH8FxBJpOwNPhhAcunlmPdXudL1WQV1qoP9un6JsEBAgQH+7UXyyjh0g7jTxXK6tg==
 
-"@fluentui/date-time-utilities@^7.6.1":
-  version "7.6.1"
-  resolved "https://registry.yarnpkg.com/@fluentui/date-time-utilities/-/date-time-utilities-7.6.1.tgz#fc0ca5fca6cb889b812b9def5865ec73c820950e"
-  integrity sha512-E+6emqTtBdBSfwBu6zb7Mj66ew/AhRiBnFI4ltt9y9RiM+wnnq3JeA0J76VGQ1c6xqYJtsVUS8ulplW5iIjQAw==
+"@fluentui/date-time-utilities@^7.7.0":
+  version "7.7.0"
+  resolved "https://registry.yarnpkg.com/@fluentui/date-time-utilities/-/date-time-utilities-7.7.0.tgz#3c77fb17a55a2cf85cdd62e43c759717cab1e5d7"
+  integrity sha512-rgtGX5x1AeYUfilfkgP6ag+ZKx41BJcUs16k6iSxXxd/mt00DAPOGY8ODGikKFpjGKcUwjKfYBssyKkVHDucfA==
   dependencies:
     "@uifabric/set-version" "^7.0.22"
     tslib "^1.10.0"
@@ -1181,10 +1181,10 @@
   dependencies:
     tslib "^1.10.0"
 
-"@fluentui/react-focus@^7.14.0":
-  version "7.14.0"
-  resolved "https://registry.yarnpkg.com/@fluentui/react-focus/-/react-focus-7.14.0.tgz#2fd62b16f1d71ff2e6088760ff2028f2ae2a35e7"
-  integrity sha512-+eeQpSEODKaklE3hzeSKra1SWcgj8IUZXWMWZtMHMVgWTY1uSMrhHwz9eWonGgDjiT0dvfIa+13Jf+DA2j0Wxw==
+"@fluentui/react-focus@^7.15.0":
+  version "7.15.0"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-focus/-/react-focus-7.15.0.tgz#53d713e130721adbf798391b3435b78887fd4556"
+  integrity sha512-xbxB0cbyEoUfQZ19pAqBeWCYJ/4IOu1FG4bhVjDimqSD7qKwJbLlJSDNwmHr05SWprdhmqJe23KOwsHMgyvnrw==
   dependencies:
     "@fluentui/keyboard-key" "^0.2.11"
     "@uifabric/merge-styles" "^7.18.0"
@@ -1201,6 +1201,14 @@
     "@microsoft/load-themed-styles" "^1.10.26"
     "@uifabric/set-version" "^7.0.22"
     "@uifabric/utilities" "^7.31.0"
+    tslib "^1.10.0"
+
+"@fluentui/react-window-provider@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-window-provider/-/react-window-provider-0.3.0.tgz#6dc90a9826306816ddb5b2961e48546c1cb3d93f"
+  integrity sha512-zHeH1PAmoFB3OkgU8f51E3oGHrL/CjuvdPBlb1SGpByUGNihAgH/CwvJohV9z0yPDkq+chfNUmxWA/oDVpbh6Q==
+  dependencies:
+    "@uifabric/set-version" "^7.0.22"
     tslib "^1.10.0"
 
 "@fluentui/theme@^0.2.0":
@@ -7306,14 +7314,15 @@ obuf@^1.0.0, obuf@^1.1.2:
   resolved "https://registry.yarnpkg.com/obuf/-/obuf-1.1.2.tgz#09bea3343d41859ebd446292d11c9d4db619084e"
   integrity sha512-PX1wu0AmAdPqOL1mWhqmlOd8kOIZQwGZw6rh7uby9fTc5lhaOWFLX3I6R1hrF9k3zUY40e6igsLGkDXK92LJNg==
 
-office-ui-fabric-react@^7.133.1:
-  version "7.133.1"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.133.1.tgz#22125025fad6e6bd8b5761bbbbf81f6b8fedae79"
-  integrity sha512-rd5fFzL0yzjWYtE8VQV3LxI6FXMJSa9zVA+/PM4BXwZJDe4EHQzpYgOUqUdZcU/HDfq6DiVMTRYP/w2mlZSfXQ==
+office-ui-fabric-react@^7.134.1:
+  version "7.134.1"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.134.1.tgz#9961dfdd5cc3846154b53536d364102213670245"
+  integrity sha512-yQhPdt5kQfzI/MQnqQMu9lf2mgdHSogEfVIYgfOjbvfMJoUzqA/hH3X2Z7RbncdJ/ca2H+GXVp5GvSgahCOs6g==
   dependencies:
-    "@fluentui/date-time-utilities" "^7.6.1"
-    "@fluentui/react-focus" "^7.14.0"
+    "@fluentui/date-time-utilities" "^7.7.0"
+    "@fluentui/react-focus" "^7.15.0"
     "@fluentui/react-icons" "^0.3.0"
+    "@fluentui/react-window-provider" "^0.3.0"
     "@microsoft/load-themed-styles" "^1.10.26"
     "@uifabric/foundation" "^7.9.0"
     "@uifabric/icons" "^7.5.0"
