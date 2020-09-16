@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "private": true,
   "dependencies": {
-    "@uifabric/icons": "^7.5.0",
+    "@uifabric/icons": "^7.5.1",
     "office-ui-fabric-react": "^7.137.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
