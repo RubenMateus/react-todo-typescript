@@ -7324,10 +7324,10 @@ obuf@^1.0.0, obuf@^1.1.2:
   resolved "https://registry.yarnpkg.com/obuf/-/obuf-1.1.2.tgz#09bea3343d41859ebd446292d11c9d4db619084e"
   integrity sha512-PX1wu0AmAdPqOL1mWhqmlOd8kOIZQwGZw6rh7uby9fTc5lhaOWFLX3I6R1hrF9k3zUY40e6igsLGkDXK92LJNg==
 
-office-ui-fabric-react@^7.138.0:
-  version "7.138.0"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.138.0.tgz#45c789d3fd6ef0823f83321b9801e5d89917e153"
-  integrity sha512-HW4ugd+x7Jg96yBWxmUNMfkTS0U8RMwf5mGsHBAvW9s5l1ektjTjKnb5beHxNrddXKqcjz9ZThdTk/Gxds0jig==
+office-ui-fabric-react@^7.139.0:
+  version "7.139.0"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.139.0.tgz#99fdf8ccd9026675a449232bfbc64effba1f1e9c"
+  integrity sha512-kqt3LUKUJfPie/32bmWxMcn3VdZoH5yiicdOj8B/huu1WPDDmhM+UlsUX2AmLeAEmqkH8XZxlgpmym96dhstaA==
   dependencies:
     "@fluentui/date-time-utilities" "^7.8.1"
     "@fluentui/react-focus" "^7.16.5"
