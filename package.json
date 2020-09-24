@@ -3,8 +3,8 @@
   "version": "0.1.1",
   "private": true,
   "dependencies": {
-    "@uifabric/icons": "^7.5.5",
-    "office-ui-fabric-react": "^7.138.0",
+    "@uifabric/icons": "^7.5.7",
+    "office-ui-fabric-react": "^7.140.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3",
@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@types/jest": "^26.0.14",
-    "@types/node": "^14.11.1",
+    "@types/node": "^14.11.2",
     "@types/react": "^16.9.49",
     "@types/react-dom": "16.9.8"
   },
