@@ -1219,10 +1219,10 @@
     "@uifabric/set-version" "^7.0.23"
     tslib "^1.10.0"
 
-"@fluentui/theme@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@fluentui/theme/-/theme-1.1.0.tgz#b91c2f53c84461af98409536536c666ad08d39a7"
-  integrity sha512-2KRiCRjnH3zVfv5guossr7T3byoLbwYZ8ZMREu8iayvnXXE74AIqaPO7iywggSg/QThfarAJ9RXA+OXksfnjLQ==
+"@fluentui/theme@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@fluentui/theme/-/theme-1.2.1.tgz#803a87b7fcef63e0cdde7192eddf74436d362512"
+  integrity sha512-18biLzW/E48HKgN1e5APP0znhMgUVpXq7h4B0LJjI7TTQZPuPTR96FA/LcHDwcTL3YR1rEMmnGgCFitWtsbA2A==
   dependencies:
     "@uifabric/merge-styles" "^7.19.1"
     "@uifabric/set-version" "^7.0.23"
@@ -1742,13 +1742,13 @@
     "@uifabric/utilities" "^7.32.3"
     tslib "^1.10.0"
 
-"@uifabric/icons@^7.5.7":
-  version "7.5.7"
-  resolved "https://registry.yarnpkg.com/@uifabric/icons/-/icons-7.5.7.tgz#d0f300c786dcd5cd87b8f9448625a0b288745c71"
-  integrity sha512-KYWvvTdWsF4kfyTja3/MCjmFhii5ycu9LmWsiVewFLvNFiJFspIk53ZsuXQuBM0D2V/tWREfSpNQCIHTg2gCcw==
+"@uifabric/icons@^7.5.7", "@uifabric/icons@^7.5.8":
+  version "7.5.8"
+  resolved "https://registry.yarnpkg.com/@uifabric/icons/-/icons-7.5.8.tgz#586bef7699b73fdd1f1da53c5d85157ae4e66cbb"
+  integrity sha512-3YIp2nKHpuKeqPQnyOUPUvoKq18N81t1+2c/NVJXnlSOP4VyEy9PC2JXCmxoZZOdrGKwQ1Is99PfLY0XsIssEQ==
   dependencies:
     "@uifabric/set-version" "^7.0.23"
-    "@uifabric/styling" "^7.16.7"
+    "@uifabric/styling" "^7.16.9"
     tslib "^1.10.0"
 
 "@uifabric/merge-styles@^7.19.1":
@@ -1776,12 +1776,12 @@
   dependencies:
     tslib "^1.10.0"
 
-"@uifabric/styling@^7.16.7":
-  version "7.16.7"
-  resolved "https://registry.yarnpkg.com/@uifabric/styling/-/styling-7.16.7.tgz#6d464f9d6f8169e5475a313ac355138b65dad57f"
-  integrity sha512-M3nhgXZJkFE0LcD4D7iQVZYqijJTsgIb5JVDlkVJ0dw8LRt89zBo+3OtuyjcabTGBOVuv/m6ijT57toQUakUng==
+"@uifabric/styling@^7.16.7", "@uifabric/styling@^7.16.9":
+  version "7.16.9"
+  resolved "https://registry.yarnpkg.com/@uifabric/styling/-/styling-7.16.9.tgz#af057bdce48a0a08f8ef820a37ac71c637a71b04"
+  integrity sha512-vouh7WeayCWvjbCo4VlqJfEYRvkRwq2fL9YyicPIJomIvKxs9lmkJJP+drUOxX78TV9DoGIMnbr+DMFpNsGcdA==
   dependencies:
-    "@fluentui/theme" "^1.1.0"
+    "@fluentui/theme" "^1.2.1"
     "@microsoft/load-themed-styles" "^1.10.26"
     "@uifabric/merge-styles" "^7.19.1"
     "@uifabric/set-version" "^7.0.23"
