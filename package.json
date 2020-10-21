@@ -7,7 +7,7 @@
     "office-ui-fabric-react": "^7.147.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "^3.4.3",
+    "react-scripts": "^3.4.4",
     "typescript": "^4.0.3"
   },
   "devDependencies": {
