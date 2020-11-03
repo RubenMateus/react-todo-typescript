@@ -1718,10 +1718,10 @@
     semver "^7.3.2"
     tsutils "^3.17.1"
 
-"@uifabric/foundation@^7.9.17":
-  version "7.9.17"
-  resolved "https://registry.yarnpkg.com/@uifabric/foundation/-/foundation-7.9.17.tgz#dc7b73cd0eb9f7818d008c5e082a70615714bba5"
-  integrity sha512-VT5faePp3c7bmsOUA7EAMBi/uN9JewkQSriwEdbW7zRRiIzHHj/q0qH8UfFXUdlVDHu6JrJSjQwtitolHqSmJA==
+"@uifabric/foundation@^7.9.18":
+  version "7.9.18"
+  resolved "https://registry.yarnpkg.com/@uifabric/foundation/-/foundation-7.9.18.tgz#7b0bbb1398679e51bb1c3c795754e86e6f9cf5b9"
+  integrity sha512-xDDuKAyYNEppKF7lFqolUTQoIYbv70f2teLudsh0yeRDVoISNT4A87nDc/Xa4bkTwttc9Di+D1HEZWP9Wqpj1w==
   dependencies:
     "@uifabric/merge-styles" "^7.19.1"
     "@uifabric/set-version" "^7.0.23"
@@ -7303,16 +7303,16 @@ obuf@^1.0.0, obuf@^1.1.2:
   resolved "https://registry.yarnpkg.com/obuf/-/obuf-1.1.2.tgz#09bea3343d41859ebd446292d11c9d4db619084e"
   integrity sha512-PX1wu0AmAdPqOL1mWhqmlOd8kOIZQwGZw6rh7uby9fTc5lhaOWFLX3I6R1hrF9k3zUY40e6igsLGkDXK92LJNg==
 
-office-ui-fabric-react@^7.149.2:
-  version "7.149.2"
-  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.149.2.tgz#1d446b79370f6448ce6ce1817644db057bf56bc9"
-  integrity sha512-1wH+AR4lWrKEAsWBTVInY81y5fRqvKbRRJihY1wA8ft8rgnoDUSe62WnDtEdodAU1gGMttMo//5J6edjhVmNig==
+office-ui-fabric-react@^7.149.3:
+  version "7.149.3"
+  resolved "https://registry.yarnpkg.com/office-ui-fabric-react/-/office-ui-fabric-react-7.149.3.tgz#7d82561b26e316b7939c6a5e5a087f4abc2bb80c"
+  integrity sha512-R0iqyTGX8l+cUB5h8SvhB/i5QexNhlXP8GW3j5NCb8U0ZiEuTVpxCCMDua/0Mmdj6MZmcK/hcL9gmK6ZPUe6qg==
   dependencies:
     "@fluentui/date-time-utilities" "^7.9.0"
     "@fluentui/react-focus" "^7.16.16"
     "@fluentui/react-window-provider" "^1.0.1"
     "@microsoft/load-themed-styles" "^1.10.26"
-    "@uifabric/foundation" "^7.9.17"
+    "@uifabric/foundation" "^7.9.18"
     "@uifabric/icons" "^7.5.15"
     "@uifabric/merge-styles" "^7.19.1"
     "@uifabric/react-hooks" "^7.13.9"
