@@ -3,18 +3,18 @@
   "version": "0.1.1-beta",
   "private": true,
   "dependencies": {
-    "@uifabric/icons": "^7.5.22",
-    "office-ui-fabric-react": "^7.164.0",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "@uifabric/icons": "^7.5.23",
+    "office-ui-fabric-react": "^7.168.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-scripts": "^4.0.3",
-    "typescript": "^4.2.3"
+    "typescript": "^4.2.4"
   },
   "devDependencies": {
-    "@types/jest": "^26.0.20",
-    "@types/node": "^14.14.33",
-    "@types/react": "^17.0.3",
-    "@types/react-dom": "17.0.2"
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.0.1",
+    "@types/react": "^17.0.4",
+    "@types/react-dom": "17.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
