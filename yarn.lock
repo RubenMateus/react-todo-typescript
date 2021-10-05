@@ -2099,10 +2099,10 @@
     "@uifabric/utilities" "^7.33.5"
     tslib "^1.10.0"
 
-"@uifabric/icons@^7.6.0":
-  version "7.6.0"
-  resolved "https://registry.yarnpkg.com/@uifabric/icons/-/icons-7.6.0.tgz#4c531e8e209fbe110355565f1d4fe4f0add71b50"
-  integrity sha512-Xx+CVMYOafJDijllYYkgE22lvKpKaodrB9XUgVSI77QveGcOV+x9z5FVa5CzwERb6Zjoafyj7q7SmH/EOi+AZw==
+"@uifabric/icons@^7.6.0", "@uifabric/icons@^7.6.1":
+  version "7.6.1"
+  resolved "https://registry.yarnpkg.com/@uifabric/icons/-/icons-7.6.1.tgz#28a6c414c055cbf028f8ba419f2ad5b9791a43cc"
+  integrity sha512-EbIDmVWl007NjhX2f6/7G0srY6uq9BR6HLOkMCg4fbvyNcePPr66t8VH/rTvl1asL4w+jFt2y6RHyLRDvTWUyw==
   dependencies:
     "@uifabric/set-version" "^7.0.24"
     "@uifabric/styling" "^7.19.1"
