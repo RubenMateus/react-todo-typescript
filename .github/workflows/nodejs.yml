@@ -22,4 +22,4 @@ jobs:
     - run: yarn test
 
     - name: Codacy Analysis CLI
-      uses: codacy/codacy-analysis-cli-action@4.0.0
+      uses: codacy/codacy-analysis-cli-action@4.0.2
